@@ -1,6 +1,6 @@
 # TrafficDataAnalyzer-Python
 
-This is a python project done during the first semester of Year 1. (CS)
+This is a python project done during the first semester of Year 1. (CS)💻
 
 ⁘This is a python program which displays traffic information through analyzing tabular data given in a certain CSV file.📈
 
